@@ -1,0 +1,57 @@
+nav{
+	background-color: green;
+	height: 40px;
+	width: 200%;
+}
+nav ul li{
+	list-style-type: none;
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+ul li a{
+	color: white;
+	text-decoration: none;
+}
+p{
+	text-align: justify;
+	font-size: 40px;
+
+}
+h1{
+	text-align: center;
+	color: blue;
+}
+.container{
+	width: 100%;
+	margin-top: 30px;
+}
+.left{
+	width: 50%;
+	float: left;
+	background-image: url('../images/kanna.jpg');
+	height:400px;
+}
+.right{
+	width: 4<0%;
+	float: right;
+	margin-left: 20px;
+}
+input[type="text"],input[type="email"],input[type="number"]{
+	border-radius: 8px;
+	height: 30px;
+	width: 300px;
+	background-color: white;
+}
+textarea{
+	border-radius: 8px;
+	border-color: blue;
+}
+input[type="submit"]{
+	border-radius: 8px;
+	height: 30px;
+	width: 300px;
+	background-color: blue;
+	color: white;
+}
